@@ -1,2 +1,2 @@
 # Github-Finder
-Encontrando e visualizando usuários do Github 
+Projeto desenvolvido em React e Typescript que consome a API do github, 
